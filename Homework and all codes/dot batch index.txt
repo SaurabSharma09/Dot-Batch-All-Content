@@ -1,0 +1,363 @@
+How to Join Discord Server for Web Dev Batch
+Steps to Follow to Join Discord Server
+Pre-requisites: Git/GitHub/VSCode Setup
+Git Cheatsheet
+VS Code Cheatsheet
+What is Version Control || Git vs GitHub
+How to install Git [windows]
+How to install Git [macOS]
+Creating a Git Repository
+Lifecycle of a Change
+Reviewing History in a Git Repo
+Doing your First Commit
+Let's create a Branch, Merge it & Tag a Commit
+Undoing changes in Git
+How to push a Commit || GitHub Desktop
+Install & Set-Up VS Code [Windows]
+Install & Set-Up VS Code [macOS]
+Introduction to Web Development Bootcamp
+Day-1 Orientation - Web Development BootCamp [Dot Batch]
+Week 1 -> HTML Basics
+HTML Cheatsheet
+HTML Basics - I [HD]
+HTML Basics - I [Class Codes]
+HTML Basics - II [HD]
+HTML Basics - II [Class Codes]
+HTML Basics - III [HD]
+HTML Basics - III [Class Codes]
+HTML Basics - IV [HD]
+HTML Basics - IV [Class Codes]
+Doubt Clearing session - HTML
+HTML Quiz
+HTML Debug Exercise
+CSS Basics
+CSS-Cheatsheet
+CSS Basics - I [ HD ]
+CSS Basics - I [Class Codes]
+CSS Basics - I [Slides]
+CSS Basics - II [HD]
+CSS Position Property
+CSS 3D Transforms
+CSS Basics - II [Class Codes]
+CSS Basics - II [Slides]
+CSS Basics - III [HD]
+CSS Basics - III [Class Codes]
+CSS Basics - IV [HD]
+CSS Basics - IV [Class Codes]
+CSS Basics - IV [Slides]
+Unwrap Class - CSS [HD]
+Image Gallery Project
+Product Card Project
+CSS Debug Exercise
+CSS Quiz-1
+CSS Quiz-2
+CSS Quiz-3
+CSS Quiz-4
+CSS Quiz-5
+Animations & Responsiveness
+Chrome Extensions for Developers
+Advanced Grids, Media Queries & Breakpoints [HD]
+Animations & Responsiveness - Class I [Codes]
+Animations & Responsiveness - Class I [Slides]
+CSS Functions, Variables, transitions & Animations [HD]
+Animations & Responsiveness - Class II [Codes]
+Animations & Responsiveness - Class II [Slides]
+Create a Modern Button using CSS [HD]
+Hire me Button Project
+Portfolio Website [Part-1] [HD]
+Animations & Responsiveness - Class III [Codes]
+Portfolio Website [Part-2] [HD]
+Portfolio Website part-2 [Codes]
+Portfolio Website [Part-3] [HD]
+Portfolio Website part-3 [Codes]
+UnWrap Class - Modern Chair Project [HD]
+Click here for Modern Chair Project
+Tailwind Project
+Nodejs Installation [windows]
+Tailwind Installation [Windows]
+Tailwind Installation [macOS]
+Tailwind - Class I [HD]
+Razorpay Clone [Code Part-1]
+Tailwind - Class II [HD]
+Razorpay Clone [Code Part-2]
+Tailwind - Class III [HD]
+Razorpay Clone [Code Part-3]
+Tailwind - Class IV
+Razorpay Clone [Code Part-4]
+Tailwind - Class V [HD]
+Razorpay Clone [Code Part-5]
+UnWrap Class - Discord Clone Project
+UnWrap Class - Discord Clone Project [Codes]
+JS Basics Language
+JavaScript CheatSheet
+JS Basics - Class I [HD]
+JS Basics - Class I [YT]
+JS Basics - Class I [Slides]
+JS Basics Class - I [Codes]
+JS Basics - Class II [HD]
+JS Basics - Class 2 [YT]
+JS Basics - Class II [Slides]
+JS Basics Class - II [Codes]
+JS Basics - Class III [HD]
+JS Basics - Class 3 [YT]
+JS Basics - Class III [Slides]
+JS Basics Class - III [Codes]
+JS Basics - Class IV [HD]
+JS Basics - Class 4 [YT]
+JS Basics - Class IV [Slides]
+JS Basics Class - IV [Codes]
+JS Quiz-1
+JS [DOM Manipulation + Modern JS]
+API CheatSheet
+DOM + Modern JS - Class I [HD]
+DOM + Modern JS - Class I [YT]
+DOM + Modern JS - Class II
+DOM + Modern JS - Class II [HD]
+DOM + Modern JS - Class 2 [YT]
+DOM + Modern JS - Class II [Codes]
+DOM + Modern JS - Class III
+DOM + Modern JS - Class 3 [YT]
+DOM + Modern JS - Class III [Codes]
+DOM + Modern JS - Class IV
+DOM + Modern JS - Class 4 [YT]
+DOM + Modern JS - Class IV [Codes]
+UnWrap Class - DOM + Modern JS
+pointer-events => Doubt ?
+Counter App [Code]
+Share Modal App [Code]
+JS Quiz-2
+JS Quiz-3
+JS Practice Exercises
+JS Exercise - 1
+JS Exercise - 2
+JS Exercise - 3
+JS Exercise - 4
+JS Exercise - 5
+JS [Series of Mini Projects] - I
+[UPDATE] - Instructions to Join Discord Server
+Mini Projects - Class 1
+Mini Projects - Class 1 [Codes]
+How to Copy to Clipboard ?
+Mini Projects - Class 2 [HD]
+Mini Projects - Class 2 [NEW-JOIN HERE]
+Mini Projects - Class 2 [Codes]
+Mini Projects - Class 3 [HD]
+Mini Projects - Class 3
+Weather API [used in Class]
+Mini Projects - Class 3 [Codes]
+Important Things to Know
+Mini Projects - Class 4 [HD]
+Mini Projects - Class 4 live
+Mini Projects - Class 4 [Codes]
+Important things to know
+How to import and use Google FONT ?
+How to use fontAwesome to import icons ?
+Mini Projects - Class 5 [HD]
+Mini Projects - Class 5
+Mini Projects - Class 5 [Codes]
+Dev Detective Project [Code]
+JS [Series of Mini Projects] - II
+Mini Projects II - Class 1 [HD]
+Mini Projects II - Class 1
+Tic-Tac-Toe Project [Codes]
+Unwrap - Dev Detective Project [JOIN HERE]
+Dev-Detective Project [Codes]
+JS Refresher [IMP Concepts]
+What is ES6 ?
+let & const Keyword
+Arrow Functions in JS
+Exports and Imports in JS
+Classes in JS
+Classes, Properties & Methods in JS
+Spread & Rest Operator in JS
+Destructuring in JS
+React Basics
+React-Cheatsheet
+React-Tailwind-CSS-Starter-Pack download
+React Installation on Windows
+Easy Understanding of NPM in Depth
+React Basics - Class 1
+React Basics - Class 1 [HD]
+React Basics - Class 1 [Codes]
+DemoShop App Credits
+React Basics - Class 2 [Join Here]
+React Basics - Class 2 [HD]
+Handling multiple-states using "useState" hook
+React Basics - Class 2 [Codes]
+Revision - Map Function in JS
+Plan-With-Love-Starter Pack download
+Important Difference
+React Basics - Class 3
+React Basics - Class 3 [HD]
+Counter App Project
+Plan with Love Project
+Top-Course-Starter-Pack download
+React Basics - Class 4
+React Basics - Class 4 [HD]
+Adding Toast in React App
+Adding Icons in React App
+React Basics - Class 5
+React Basics - Class 5 [HD]
+Top Courses Project
+Testimonial-Slider-Starter-Pack download
+React Basics - Class 6
+React Basics - Class 6 [HD]
+Testimonial Slider Project
+React Intermediate
+React Intermediate - Class 1
+React Intermediate - Class 1 [HD]
+React Intermediate - Class 1 [Codes]
+React Intermediate - Class 2
+React Intermediate - Class 2 [HD]
+Form App
+React Router NavBar Project
+Router Project Starter Pack download
+React Intermediate - Class 3
+React Intermediate - Class 3 [HD Processing]
+StudyNotion Project App
+React Intermediate - Class 4
+React Intermediate - Class 4 [HD]
+StudyNotion Project App [With Tailwind Added]
+React Advanced
+Random-Gif-Starter-Pack download
+React Advanced - Class 1
+React Advanced - Class 1 [HD]
+Random GIF Project download
+Blogs-Context-Starter-Pack download
+React Advanced - Class 2
+React Advanced - Class 2 [HD]
+Blogs Context App Project
+Blogs-Context-2-Starter-Pack download
+useSearchParams Hook
+useLocation Hook
+React Advanced - Class 3
+Blog Context2 App Download
+Shopping-Cart-Starter-Pack download
+React Advanced - Class 4
+React Advanced - Class 4 [HD]
+Counter App using Redux
+Shopping Cart App [Incomplete]
+React Advanced - Class 5
+React Advanced - Class 5 [HD]
+Shopping Cart App [Codes]
+Backend Development + Express - I
+MongoDB CheatSheet download
+Express Cheatsheet download
+BD- Class 1
+BD- Class 1 [HD]
+BD - Class 1 [Codes]
+BD Class-2
+BD Class-2 [HD]
+BD - Class 2 [Codes]
+BD Class-3
+BD Class-3 [HD]
+BD - Class 3 [Codes]
+BD Class-4
+BD Class-4 [HD]
+BD - Class 4 [Codes]
+BackEnd Development - Pure Basics I
+BD Class-5 [HD]
+BD - Class 5 [Codes]
+Pure Basics - I [Slides]
+BackEnd Development - Pure Basics II live
+BD Class-6 [HD]
+Dummy MERN [frontend + backend]
+Backend Development + Express - II
+This week's TARGET
+JWT and Cookies for Security
+AuthN & AuthZ - Class 1
+AuthN & AuthZ - Class 1 [HD]
+AuthN & AuthZ - Class 2
+AuthN & AuthZ - Class 2 [HD]
+AuthN & AuthZ - Class 1 & 2 [Codes]
+AuthN & AuthZ - Class 3 live
+AuthN & AuthZ - Class 3 [Codes]
+Intermediate Project ( Foms , Image , File Handeling)
+This week's TARGET
+Cloudinary Integration
+Nodemailer Integration
+express-fileupload Package [EXPLORE]
+express.urlEncoded() Middleware [EXPLORE]
+fileUpload() vs Cloudinary upload()
+what is __dirname ?
+File Upload Class - 1
+File Upload Class - 1 [HD]
+File Upload Class - 1 [Codes]
+File Upload Class - 2
+File Upload Class - 2 [HD]
+What is Markdown Formatting ?
+File Upload Class - 3
+File Upload Class - 3 [HD]
+File Upload Class - 2 && 3 [Codes]
+EdTech Project (Backend)
+Mega Project - Introduction
+Why we have "ref", if we say MongoDB is a non-relational Database ?
+Mega Backend Class - 1
+Mega Backend Class - 1 [HD]
+Mega Backend Class - 1 [Codes]
+Mega Backend Class - 2
+Mega Backend Class - 2 [HD]
+Mega Backend Class - 2 [Codes]
+Mega Backend Class - 3
+Mega Backend Class - 3 [Codes]
+Mega Backend Class - 4
+Mega Backend Class - 4 [HD]
+Mega Backend Class - 4 [Codes]
+Mega Backend Class - 5
+Mega Backend Class - 5 [HD]
+Mega Backend Class - 5 [Codes]
+Mega Backend Class - 6
+Mega Backend Class - 6 [HD]
+Mega Backend Class - 6 [Codes]
+Mega Backend [Testing]
+Mega Backend Class - 7 [HD]
+Mega Backend Testing [Codes]
+EdTech Project (Backend + Frontend)
+Postman: A Step-by-Step Tutorial
+React-Tailwind Starter Pack [Download]
+Additional Files [Download]
+EdTech FrontEnd Class - 1
+Mega Frontend Class - 1 [HD]
+EdTech FrontEnd Class - 1 [Codes]
+EdTech FrontEnd Class - 2
+EdTech FrontEnd Class - 2 [HD]
+EdTech FrontEnd Class - 2 [Codes]
+EdTech FrontEnd Class - 3 live
+EdTech FrontEnd Class - 4
+EdTech FrontEnd Class - 4 [HD]
+EdTech FrontEnd Class - 4 [Codes with HW Added]
+EdTech FrontEnd Class - 5
+EdTech FrontEnd Class - 5 [HD]
+React-Hook-Form
+EdTech FrontEnd Class - 6
+EdTech FrontEnd Class - 6 [Codes with HW Added]
+EdTech FrontEnd Class - 7
+EdTech FrontEnd Class - 7 [Codes]
+EdTech FrontEnd Class - 8 live
+EdTech FrontEnd Class - 8[Codes]
+EdTech Project (Frontend)
+EdTech FrontEnd - Class 1
+EdTech FrontEnd - Class 1 [Codes]
+EdTech FrontEnd Class - 2 live
+EdTech FrontEnd Class - 2 [Codes]
+EdTech FrontEnd Class - 3
+EdTech FrontEnd Class - 3 [HD]
+EdTech FrontEnd Class - 4
+EdTech FrontEnd Class - 4 [HD]
+EdTech FrontEnd Class - 3 & 4 [Codes]
+EdTech FrontEnd Class - 5
+EdTech FrontEnd Class - 5 [HD]
+EdTech FrontEnd Class - 5 [Codes]
+EdTech FrontEnd Class - 6
+EdTech FrontEnd Class - 6 [HD]
+EdTech FrontEnd Class - 6 [Codes]
+EdTech FrontEnd Class - 7
+EdTech FrontEnd Class - 7 [Codes]
+EdTech FrontEnd Class - 8
+EdTech FrontEnd Class - 9
+EdTech FrontEnd Class - 8 && 9 [Codes]
+StudyNotion Final Code [Review Slider Styling Pending]
+StudyNotion Final Code
+EdTech Project (Integration + Deployment)
+Hosting a MERN Web App on Vercel and Render: Step-by-Step Guide
+The Last Class

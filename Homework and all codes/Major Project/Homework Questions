@@ -1,0 +1,32 @@
+------------------------------------------- BACKEND ---------------------------------------------------------------------------------
+
+1) Find a package which generates unique OTP always. 
+2) Find meaning of OTP.find({email}).sort({createdAt:-1}).limit(1);
+3) Try changePassword in Auth.js
+4) Replace tag by category (UI Got Updated).
+5) In Section controller, how can we populate both section as well as subsection in updatedCourseDetails in createSection method.
+6) In SubSection controller, add populate in updatedSection while creating subsection.
+7) Code for updateSubsection and deleteSubsection in subSection controller.
+8) How to schedule a request? -> Like deleting an account takes 5 days.
+9) What is crone job?
+10) Unenroll user from all course when deleting account in Profile controller.
+11) Study about $elemMatch and $eq operators. Also explore $ne operator.
+12) Explore aggregate method of mongoose
+13) Write getTopSelling courses inside categoryPageDetails handler function of Category controller.
+
+
+------------------------------------------- FRONTEND --------------------------------------------------------------------------------
+1) Apply shadow to button.
+2) Apply gradient to coding skills in home page.
+3) Apply shadows to learn more button and book a demo button. Work on its text.
+4) Add blue gradient to video.
+5) Apply gradient in the background of typing text
+6) Code footer section of home page
+7) Create dotted lines in  timeline section.
+8) Create CourseCard in Explore More component.
+9) Code signup and login page. (Already done in project when learning react)
+10) Code profile drop down when logged in.
+11) Style forgotpassword,updatepassword,verifyemail page.
+12) Add onClick property to sideBarLinks (<NavLink>
+13) Add icon after edit text in dasboard buttons.
+14) Code dashes in add course for instructor.
