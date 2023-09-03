@@ -22,9 +22,9 @@
       <td><a href="https://github.com/SaurabSharma09/Fruit-Ninja-Game">Link</a></td>
     </tr>
     <tr>
-      <td>Project 2</td>
+      <td>Student Portal By Saurab</td>
       <td>A brief description of project 2.</td>
-      <td><a href="https://github.com/YourGitHubUsername/project2">Link</a></td>
+      <td><a href="https://github.com/SaurabSharma09/Student-Portal-By-Saurab">Link</a></td>
     </tr>
     <!-- Add more projects here -->
   </table>
