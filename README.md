@@ -17,13 +17,13 @@
       <th>GitHub Repository</th>
     </tr>
     <tr>
-      <td>Project 1</td>
+      <td>Fruit Ninja Game</td>
       <td>Fruit Ninja Game Python based</td>
       <td><a href="https://github.com/SaurabSharma09/Fruit-Ninja-Game">Link</a></td>
     </tr>
     <tr>
       <td>Student Portal By Saurab</td>
-      <td>A brief description of project 2.</td>
+      <td>Portal based on MySQL and PHP.</td>
       <td><a href="https://github.com/SaurabSharma09/Student-Portal-By-Saurab">Link</a></td>
     </tr>
     <!-- Add more projects here -->
