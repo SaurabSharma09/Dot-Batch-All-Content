@@ -24,7 +24,7 @@
     <tr>
       <td>Student Portal By Saurab</td>
       <td>Portal based on MySQL and PHP.</td>
-      <td><a href="https://github.com/SaurabSharma09/Student-Portal-By-Saurab">Link</a></td>
+      <td><a href="https://github.com/SaurabSharma09/Students-Portal-by-Saurab">Link</a></td>
     </tr>
     <!-- Add more projects here -->
   </table>
