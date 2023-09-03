@@ -65,7 +65,7 @@
 
 <hr>
 
-<p>If you have any questions, suggestions, or just want to chat, don't hesitate to get in touch. I'm always excited to connect with fellow developers and enthusiasts!</p>
+<p>If you have any questions, suggestions, or just want to chat, don't hesitate to get in touch. I'm always excited to connect with fellow developers and enthusiasts!📑🔖</p>
 
 </body>
 </html>
